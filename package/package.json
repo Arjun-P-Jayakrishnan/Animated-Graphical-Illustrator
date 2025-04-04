@@ -1,0 +1,31 @@
+{
+  "name": "animated-graphical-illustrator",
+  "version": "0.0.1",
+  "description": "Allows to create and embedd a graphical illustration to your website",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjun-P-Jayakrishnan/Animated-Graphical-Illustrator.git"
+  },
+  "keywords": [
+    "Illustration"
+  ],
+  "author": "Arjun P J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjun-P-Jayakrishnan/Animated-Graphical-Illustrator/issues"
+  },
+  "homepage": "https://github.com/Arjun-P-Jayakrishnan/Animated-Graphical-Illustrator#readme",
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "tsup": "^8.4.0"
+  }
+}
