@@ -1,3 +1,1 @@
-export function parseFile(){
-    return "File parsed"
-}
+import * as Types from  "./types"

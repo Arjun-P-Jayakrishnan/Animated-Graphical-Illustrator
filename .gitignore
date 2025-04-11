@@ -1,0 +1,6 @@
+/package/dist
+/package/node_modules
+/test-folder/node_modules
+
+.env
+.DS_Store
